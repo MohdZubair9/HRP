@@ -5,5 +5,4 @@ seaborn
 scikit-learn
 openpyxl
 streamlit
-pickle 
 joblib

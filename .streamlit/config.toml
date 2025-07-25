@@ -1,2 +1,15 @@
-[general]
-python_version = "3.11"
+[theme]
+base = "light"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+port = 8501
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showSidebarNavigation = false
+toolbarMode = "minimal"
